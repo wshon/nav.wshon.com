@@ -1,0 +1,15 @@
+baseURL = 'http://nav.wshon.com/'
+languageCode = "zh-CN"
+title = '暮木的藏宝库'
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = "nav.wshon.com"
+[params]
+  author = "wshon"
+  description = "工具软件大集合"
+[params.search]
+  enable = false
+[params.darkmode]
+  enable = false

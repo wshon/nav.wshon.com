@@ -1,0 +1,87 @@
+---
+- taxonomy: 开发工具
+  icon: fa-code
+  list: 
+    - term: 代码编辑器
+      links: 
+        - title: Visual Studio Code
+          logo: assets/images/logos/vscode.png
+          url: https://code.visualstudio.com/Download
+          description: 开源免费跨平台代码编辑器。
+    - term: 集成开发环境
+      links: 
+        - title: PyCharm
+          logo: assets/images/logos/pycharm.png
+          url: https://www.jetbrains.com/pycharm/download
+          description: JetBrains打造的一款Python IDE。
+    - term: Web调试工具
+      links: 
+        - title: Fiddler Classic 
+          logo: assets/images/logos/fiddler.png
+          url: https://www.telerik.com/download/fiddler/fiddler4
+          description: 一款HTTP协议调试代理工具，它能记录所有客户端和服务器的http和https请求。允许你监视、设置断点、甚至修改输入输出数据。
+
+- taxonomy: 文档编辑器
+  icon: fa-pencil-square-o
+  list: 
+    - term: Markdown 编辑器
+      links: 
+        - title: Mark Text
+          logo: assets/images/logos/marktext.png
+          url: https://marktext.app/
+          description: 一款简单易用的跨平台开源 Markdown 编辑器。
+        - title: Typora（免费版）
+          logo: assets/images/logos/typora.png
+          url: https://typora.io/windows/dev_release.html
+          description: 一款 Markdown 编辑器和阅读器。
+        - title: Typora（中文站）
+          logo: assets/images/logos/typora.png
+          url: https://typoraio.cn/windows/dev_release.html
+          description: 一款 Markdown 编辑器和阅读器。
+
+- taxonomy: 同步工具
+  icon: fa-cloud
+  links: 
+    - title: 坚果云
+      logo: assets/images/logos/jianguoyun.png
+      url: https://www.jianguoyun.com/s/downloads
+      description: 一款简单易用的跨平台开源 Markdown 编辑器。
+
+- taxonomy: 系统增强
+  icon: fa-tachometer
+  links: 
+    - title: Everything
+      logo: assets/images/logos/everything.png
+      url: https://www.voidtools.com/zh-cn/downloads
+      description: 基于名称快速定位文件和文件夹。
+
+- taxonomy: 系统插件
+  icon: fa-cubes
+  links: 
+    - title: HEVC 视频扩展
+      logo: assets/images/logos/hevc.png
+      url: ms-windows-store://pdp/?ProductId=9N4WGH0Z6VHQ
+      description: 在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。
+
+- taxonomy: FBI WARNING
+  icon: fa-warning
+  links: 
+    - title: Some keys for testing
+      url: https://jetbra.in/s
+      description: Some keys for testing - jetbra.in
+
+- taxonomy: Windows 资源
+  icon: fa-windows
+  links:
+    - title: Microsoft Store - Generation Project (v1.2.3) [by @rgadguard & mkuba50]
+      logo: assets/images/logos/store.png
+      background: silver
+      url: https://store.rg-adguard.net/
+      description: Online link generator for Microsoft Store. You can use it to get links to almost all apps, games, themes from the Microsoft Store.
+    - title: UUP (Unified Update Platform) Generation Project (v2.4.16) [by @rgadguard & whatever127]
+      url: https://uup.rg-adguard.net/
+      description: This project helps you just download UUP files or download and create an ISO image in one click.
+    - title: MSDN, 我告诉你
+      logo: assets/images/logos/itellyou.png
+      url: https://msdn.itellyou.cn/
+      description: MSDN, 我告诉你 - 做一个安静的工具站

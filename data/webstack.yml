@@ -59,9 +59,13 @@
   icon: fa-cloud
   links: 
     - title: 坚果云
-      logo: images/logos/jianguoyun.png
+      logo: images/logos/picgo.png
       url: https://www.jianguoyun.com/s/downloads
       description: 一款简单易用的跨平台开源 Markdown 编辑器。
+    - title: PicGo
+      logo: images/logos/jianguoyun.png
+      url: https://picgo.github.io/PicGo-Doc/zh/guide/#%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85
+      description: 一个用于快速上传图片并获取图片 URL 链接的工具。
 
 - taxonomy: 远程控制
   icon: fa-tower-broadcast

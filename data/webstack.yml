@@ -73,7 +73,27 @@
     - title: 向日葵
       logo: images/logos/sunlogin.png
       url: https://sunlogin.oray.com/download
-      description: 一款简单易用的跨平台开源 Markdown 编辑器。
+      description: 一款安全免费限速的远程控制软件。
+    - title: ToDesk
+      url: https://www.todesk.com/download.html
+      description: 一款安全免费不限速的远程控制软件。
+
+- taxonomy: 游戏制作
+  icon: fa-tower-broadcast
+  links: 
+    - title: Tile编辑器
+      url: https://www.mapeditor.org/
+      description: 一款非常好用的2D游戏地图编辑器。
+
+- taxonomy: 游戏制作
+  icon: fa-tower-broadcast
+  links: 
+    - title: Goproxy.cn
+      url: https://goproxy.cn/
+      description: 中国最可靠的 Go 模块代理。
+    - title: goproxy.io
+      url: https://goproxy.io/zh/
+      description: 一个全球代理，为 Go 模块而生。
 
 - taxonomy: FBI WARNING
   icon: fa-warning
@@ -107,10 +127,10 @@
         - title: Raspberry Pi OS
           logo: images/logos/raspberrypi.png
           url: https://www.raspberrypi.com/software/operating-systems/
-          description: 一款简单易用的跨平台开源 Markdown 编辑器。
+          description: 树莓派官方系统。
     - term: 内存卡烧写工具
       links: 
         - title: Mark Text
           logo: images/logos/raspberrypi.png
           url: https://downloads.raspberrypi.org/imager/imager_latest.exe
-          description: 一款简单易用的跨平台开源 Markdown 编辑器。
+          description: 树莓派官方出品的内存卡烧录软件。

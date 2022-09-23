@@ -132,6 +132,15 @@
       url: https://msdn.itellyou.cn/
       description: MSDN, 我告诉你 - 做一个安静的工具站
 
+- taxonomy: 启动盘制作
+  icon: fa-hdd-o
+  links: 
+    - title: Ventoy
+      url: https://www.ventoy.net/cn/index.html
+      description: 新一代多系统启动U盘解决方案
+    - title: Rufus
+      url: https://rufus.ie/zh/
+      description: 轻松创建USB启动盘
 
 - taxonomy: 树莓派
   icon: fa-brands fa-raspberry-pi

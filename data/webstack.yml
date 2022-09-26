@@ -54,20 +54,17 @@
       logo: images/logos/hevc.png
       url: ms-windows-store://pdp/?ProductId=9N4WGH0Z6VHQ
       description: 在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。
-- taxonomy: 系统插件
-  icon: fa-cubes
-  links: 
     - title: Windows Subsystem for Linux Preview
       logo: images/logos/wslp.png
       url: https://aka.ms/wslstorepage
       description: Windows Subsystem for Linux (WSL) lets developers run a GNU/Linux environment
-- taxonomy: 系统插件
-  icon: fa-cubes
-  links: 
     - title: 在 Windows 上运行 Linux
       logo: images/logos/wslp.png
       url: https://aka.ms/wslstore
       description: 安装 Linux 发行版并在适用于 Linux 的 Windows 子系统(WSL)上并排运行他们
+    - title: Microsoft PowerToys
+      url: https://aka.ms/installPowerToys
+      description: Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。
 
 - taxonomy: 同步工具
   icon: fa-cloud

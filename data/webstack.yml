@@ -14,6 +14,12 @@
           logo: images/logos/pycharm.png
           url: https://www.jetbrains.com/pycharm/download
           description: JetBrains打造的一款Python IDE。
+    - term: 数据库管理工具
+      links: 
+        - title:  DBeaver Community
+          logo: https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png
+          url: https://dbeaver.io/download/
+          description: 一款免费、跨平台的通用数据库管理和开发工具。
     - term: Web调试工具
       links: 
         - title: Fiddler Classic 

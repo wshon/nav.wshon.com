@@ -46,6 +46,9 @@
       logo: images/logos/everything.png
       url: https://www.voidtools.com/zh-cn/downloads
       description: 基于名称快速定位文件和文件夹。
+    - title: WizTree
+      url: https://www.diskanalyzer.com/download
+      description: WizTree是一个非常高速的磁盘空间分析工具。
 
 - taxonomy: 系统插件
   icon: fa-cubes
@@ -81,6 +84,10 @@
 - taxonomy: 远程控制
   icon: fa-tower-broadcast
   links: 
+    - title: RustDesk
+      logo: https://rustdesk.com/images/favicon.png
+      url: https://rustdesk.com/zh/
+      description: 远程桌面软件，开箱即用，无需任何配置。
     - title: 向日葵
       logo: images/logos/sunlogin.png
       url: https://sunlogin.oray.com/download

@@ -167,3 +167,11 @@
           logo: images/logos/raspberrypi.png
           url: https://downloads.raspberrypi.org/imager/imager_latest.exe
           description: 树莓派官方出品的内存卡烧录软件。
+
+- taxonomy: 好项目分享
+  icon: fa-code
+  links: 
+    - title: VcRedist
+      url: https://vcredist.com/
+      description: Microsoft Visual C++ Redistributables
+      

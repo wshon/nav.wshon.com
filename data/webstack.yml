@@ -59,10 +59,14 @@
 - taxonomy: 系统插件
   icon: fa-cubes
   links: 
-    - title: HEVC 视频扩展
+    - title: HEVC 视频扩展-安装包
+      logo: images/logos/hevc.png
+      url: https://www.free-codecs.com/hevc_video_extension_download.htm
+      description: 在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。
+    - title: HEVC 视频扩展（已失效）
       logo: images/logos/hevc.png
       url: ms-windows-store://pdp/?ProductId=9N4WGH0Z6VHQ
-      description: 在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。
+      description: 【应用商店已失效】在 Windows 10 设备上的任何视频应用中播放高效率视频编码(HEVC)视频。
     - title: Windows Subsystem for Linux Preview
       logo: images/logos/wslp.png
       url: https://aka.ms/wslstorepage

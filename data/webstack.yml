@@ -44,6 +44,15 @@
           logo: images/logos/typora.png
           url: https://typoraio.cn/windows/dev_release.html
           description: 一款 Markdown 编辑器和阅读器。
+    - term: 思维导图
+      links: 
+        - title: Draw.io
+          url: https://github.com/jgraph/drawio-desktop/releases
+          description: 一款开源免费的流程图绘制软件。
+        - title: FreeMind
+          logo: https://freemind.sourceforge.net/wiki/skins/common/images/wiki.png
+          url: https://freemind.sourceforge.net/wiki/index.php/Download
+          description: 一款Java语言开发的免费流程图绘制软件。
 
 - taxonomy: 系统增强
   icon: fa-tachometer

@@ -180,6 +180,14 @@
           logo: images/logos/raspberrypi.png
           url: https://downloads.raspberrypi.org/imager/imager_latest.exe
           description: 树莓派官方出品的内存卡烧录软件。
+        - title: Etcher
+          logo: https://etcher-docs.balena.io/img/logo.png
+          url: https://www.balena.io/etcher#download-etcher
+          description: Etcher 是一个快速将镜像文件刻录到 USB 设备或 SD 卡中的工具，操作简单，整个操作只需要点三下鼠标。
+        - title: Win32 Disk Imager
+          logo: https://a.fsdn.com/allura/p/win32diskimager/icon
+          url: https://sourceforge.net/projects/win32diskimager/
+          description: A Windows tool for writing images to USB sticks or SD/CF cards
 
 - taxonomy: 好项目分享
   icon: fa-code

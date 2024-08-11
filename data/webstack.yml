@@ -26,6 +26,20 @@
           logo: images/logos/fiddler.png
           url: https://www.telerik.com/download/fiddler/fiddler4
           description: 一款HTTP协议调试代理工具，它能记录所有客户端和服务器的http和https请求。允许你监视、设置断点、甚至修改输入输出数据。
+    - term: JDK
+      links: 
+        - title: Adoptium
+          logo: https://adoptium.net/images/temurin-light.png
+          url: https://adoptium.net/zh-CN/temurin/releases/
+          description: Eclipse Temurin - Adoptium
+        - title: Corretto
+          logo: https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png
+          url: https://aws.amazon.com/cn/corretto/
+          description: Amazon Corretto
+        - title: Zulu
+          logo: https://www.azul.com/wp-content/uploads/Prime-Illustration-10.svg
+          url: https://www.azul.com/downloads/
+          description: Azul Zulu
 
 - taxonomy: 文档编辑器
   icon: fa-pen-to-square

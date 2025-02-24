@@ -67,6 +67,14 @@
           logo: https://freemind.sourceforge.net/wiki/skins/common/images/wiki.png
           url: https://freemind.sourceforge.net/wiki/index.php/Download
           description: 一款Java语言开发的免费流程图绘制软件。
+    - term: 笔记软件
+      links:
+        - title: Obsidian
+          url: https://obsidian.md/download
+          description: 构建在一个本地文件夹中的知识库，使用纯文本 Markdown 文件存储。
+        - title: Logseq
+          url: https://logseq.com/downloads
+          description: Logseq 是用于处理大量信息的工作流程的开放式工具箱。
 
 - taxonomy: 系统增强
   icon: fa-tachometer

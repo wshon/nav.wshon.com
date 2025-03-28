@@ -66,7 +66,7 @@
         - title: FreeMind
           logo: https://freemind.sourceforge.net/wiki/skins/common/images/wiki.png
           url: https://freemind.sourceforge.net/wiki/index.php/Download
-          description: 一款Java语言开发的免费流程图绘制软件。
+          description: 一款 Java 语言开发的免费流程图绘制软件。
     - term: 笔记软件
       links:
         - title: Obsidian
@@ -84,8 +84,13 @@
       url: https://www.voidtools.com/zh-cn/downloads
       description: 基于名称快速定位文件和文件夹。
     - title: WizTree
+      logo: https://antibodysoftware-17031.kxcdn.com/images/wiztree445x.png
       url: https://www.diskanalyzer.com/download
-      description: WizTree是一个非常高速的磁盘空间分析工具。
+      description: WizTree 是一个非常高速的磁盘空间分析工具。
+    - title: BleachBit
+      logo: https://www.bleachbit.org/sites/default/files/zen_classic_logo_0.png
+      url: https://www.bleachbit.org/download
+      description: BleachBit 是一款功能强大且高效的 Windows 和 Linux 系统清理工具。
 
 - taxonomy: 系统插件
   icon: fa-cubes
